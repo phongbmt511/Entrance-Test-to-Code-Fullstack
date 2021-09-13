@@ -1,0 +1,25 @@
+.border {
+    width: 800px;
+    height: 500px;
+    text-align: left;
+    margin: auto;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    margin-top: 100px;
+}
+
+.domain_id {
+    display: flex;
+    margin-top: 10px;
+}
+
+.url_id {
+    display: flex;
+    margin-top: 20px;
+}
+
+.full_body {
+    padding-top: 60px;
+    padding-left: 40px;
+}
